@@ -1,6 +1,18 @@
 # 糖葫芦享屏 (THLPlay) - 产品技术文档
 
+[![TestFlight](https://img.shields.io/badge/TestFlight-Join%20Beta-blue?logo=apple)](https://testflight.apple.com/join/YUS31axK)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20tvOS%20%7C%20iPadOS%20%7C%20macOS-lightgrey)](#-平台使用指南)
+[![License](https://img.shields.io/badge/License-Closed%20Source-red)](PRIVACY_POLICY.md)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/tanghulutvos)
+
 糖葫芦享屏 (THLPlay) 是一款专为 Apple 生态设计的高性能 AirPlay 镜像与音频接收解决方案。本产品采用私有优化协议栈，支持 4K 高清投屏与超低延迟音频流传输。
+
+> ⚠️ **声明：本项目核心协议栈为闭源商业项目，当前仓库仅作为产品主页、使用文档与技术架构展示。**
+> 
+> 🎉 **立即体验【糖葫芦享屏】!**  
+> 体验极致流畅的 4K 投屏与无损音频传输，欢迎加入我们的 TestFlight 内测：  
+> 👉 **[点击此处参与 TestFlight 内测](https://testflight.apple.com/join/YUS31axK)**
+
 
 ## 1. 产品核心特性
 
