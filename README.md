@@ -1,17 +1,24 @@
 # 糖葫芦享屏 (THLPlay) - 产品技术文档
 
 [![TestFlight](https://img.shields.io/badge/TestFlight-Join%20Beta-blue?logo=apple)](https://testflight.apple.com/join/YUS31axK)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20tvOS%20%7C%20iPadOS%20%7C%20macOS-lightgrey)](#-平台使用指南)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Internal%20Test-green?logo=googleplay)](https://play.google.com/apps/internaltest/4701637473484882073)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20tvOS%20%7C%20iPadOS%20%7C%20macOS%20%7C%20Android-lightgrey)](#-平台使用指南)
 [![License](https://img.shields.io/badge/License-Closed%20Source-red)](PRIVACY_POLICY.md)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/tanghulutvos)
 
-糖葫芦享屏 (THLPlay) 是一款专为 Apple 生态设计的高性能 AirPlay 镜像与音频接收解决方案。本产品采用私有优化协议栈，支持 4K 高清投屏与超低延迟音频流传输。
+糖葫芦享屏 (THLPlay) 是一款专为 高性能镜像与音视频接收解决方案。本产品采用私有优化协议栈，支持 高清投屏与超低延迟音频流传输。
 
 > ⚠️ **声明：本项目核心协议栈为闭源商业项目，当前仓库仅作为产品主页、使用文档与技术架构展示。**
 > 
 > 🎉 **立即体验【糖葫芦享屏】!**  
-> 体验极致流畅的 4K 投屏与无损音频传输，欢迎加入我们的 TestFlight 内测：  
-> 👉 **[点击此处参与 TestFlight 内测](https://testflight.apple.com/join/YUS31axK)**
+> 体验极致流畅的 4K 投屏与无损音频传输，欢迎加入我们的内测：  
+> * 👉 **Apple 用户**：[点击此处参与 TestFlight 内测](https://testflight.apple.com/join/YUS31axK)  
+> * 👉 **Android 用户**：[点击此处参与 Google Play 内部测试](https://play.google.com/apps/internaltest/4701637473484882073)  
+> 
+> > 📝 **Android 参与内测完整说明：**
+> > 1. **获取测试资格**：Google Play 内部测试需要您的 Google 账号在受邀名单中。如果您点击上述链接时提示“应用不可用”或“测试项目尚未开始”，请加入我们的 [Telegram 交流群](https://t.me/tanghulutvos) 联系管理员，或通过邮件提供您的 Google 账号以添加测试权限。
+> > 2. **接受测试邀请**：确保您的浏览器登录了已获得授权的 Google 账号，点击上面的 [内测链接](https://play.google.com/apps/internaltest/4701637473484882073)，在打开的页面中点击 **“接受邀请” (Become a Tester)**。
+> > 3. **安装测试版**：接受邀请后，点击页面下方的 **“在 Google Play 上下载它” (Download it on Google Play)** 链接，或者直接在已登录该账号的 Android 设备的 Google Play 商店中搜索并安装【糖葫芦享屏】。
 
 
 ## 1. 产品核心特性
@@ -101,6 +108,20 @@
 
 </details>
 
+<br>
+
+<details>
+<summary><b>🤖 Android</b></summary>
+
+### 快速开始
+1. **参与内测**：通过 [Google Play 内部测试链接](https://play.google.com/apps/internaltest/4701637473484882073) 接受邀请并获取下载资格。
+   * *注：若提示不可用，请前往 [Telegram 交流群](https://t.me/tanghulutvos) 联系管理员开通测试权限。*
+2. **安装应用**：在 Google Play 商店中下载并安装“糖葫芦享屏”。
+3. **连接网络**：确保 Android 设备与发送端（如 iPhone 或 Mac）处于同一 Wi-Fi 局域网。
+4. **开始投屏**：在发送端设备上发起 AirPlay / DLNA 投屏，选择此 Android 设备即可享受超低延迟的高清投屏接收。
+
+</details>
+
 ---
 
 ## 4. 开发与环境配置 (仅限内部人员)
@@ -127,7 +148,18 @@
 
 ---
 
-## 6. 版权与许可
+## 6. 联系我们
+
+如果您在使用过程中有任何问题、建议或需要获取测试资格与授权，欢迎通过以下方式与我们取得联系：
+
+- **官方网站**：[www.myit2017.cn](https://www.myit2017.cn)
+- **GitHub 仓库**：[localsend_never88gone](https://github.com/never88gone/localsend_never88gone)
+- **Telegram 频道**：[糖葫芦享屏 (THLPlay)](https://t.me/tanghulutvos)
+- **联系邮箱**：[hsb@myit2017.cn](mailto:hsb@myit2017.cn)
+
+---
+
+## 7. 版权与许可
 
 © 2026 糖葫芦享屏开发团队。保留所有权利。
 

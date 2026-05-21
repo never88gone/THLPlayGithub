@@ -32,7 +32,12 @@
 我们可能会适时更新本隐私政策。任何修订都将通过更新本页面来通知。
 
 ### 8. 联系我们
-如果您对本隐私政策有任何疑问，请通过 GitHub 仓库提交 Issue 与我们联系。
+如果您对本隐私政策有任何疑问，或有其他问题与建议，欢迎通过以下渠道与我们联系：
+
+- **官方网站**：[www.myit2017.cn](https://www.myit2017.cn)
+- **GitHub 仓库**：[localsend_never88gone](https://github.com/never88gone/localsend_never88gone)
+- **Telegram 频道**：[糖葫芦享屏 (THLPlay)](https://t.me/tanghulutvos)
+- **联系邮箱**：[hsb@myit2017.cn](mailto:hsb@myit2017.cn)
 
 ---
 **糖葫芦开发团队**  
