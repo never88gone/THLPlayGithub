@@ -34,10 +34,10 @@
 ### 8. 联系我们
 如果您对本隐私政策有任何疑问，或有其他问题与建议，欢迎通过以下渠道与我们联系：
 
-- **官方网站**：[www.myit2017.cn](https://www.myit2017.cn)
+- **官方网站**：[www.thltv.com](https://www.thltv.com/)
 - **GitHub 仓库**：[localsend_never88gone](https://github.com/never88gone/localsend_never88gone)
 - **Telegram 频道**：[糖葫芦享屏 (THLPlay)](https://t.me/tanghulutvos)
-- **联系邮箱**：[hsb@myit2017.cn](mailto:hsb@myit2017.cn)
+- **联系邮箱**：[support@thltv.com](mailto:support@thltv.com)
 
 ---
 **糖葫芦开发团队**  

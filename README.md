@@ -152,10 +152,10 @@
 
 如果您在使用过程中有任何问题、建议或需要获取测试资格与授权，欢迎通过以下方式与我们取得联系：
 
-- **官方网站**：[www.myit2017.cn](https://www.myit2017.cn)
+- **官方网站**：[www.thltv.com](https://www.thltv.com/)
 - **GitHub 仓库**：[localsend_never88gone](https://github.com/never88gone/localsend_never88gone)
 - **Telegram 频道**：[糖葫芦享屏 (THLPlay)](https://t.me/tanghulutvos)
-- **联系邮箱**：[hsb@myit2017.cn](mailto:hsb@myit2017.cn)
+- **联系邮箱**：[support@thltv.com](mailto:support@thltv.com)
 
 ---
 

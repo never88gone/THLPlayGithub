@@ -60,10 +60,10 @@
 
 ### ⚠️ 订阅与技术支持
 
-*   **官方网站**：https://www.myit2017.cn
+*   **官方网站**：https://www.thltv.com/
 *   **GitHub 仓库**：https://github.com/never88gone/localsend_never88gone
 *   **Telegram 频道**：https://t.me/tanghulutvos
-*   **联系邮箱**：hsb@myit2017.cn
+*   **联系邮箱**：support@thltv.com
 *   **官方隐私政策**：详情请参阅应用内提供的隐私声明。
 *   **免责声明**：AirPlay 是 Apple Inc. 在美国和其他国家/地区注册的商标。本应用是由第三方团队开发的独立 AirPlay 接收解决方案，非 Apple 官方关联应用。
 
@@ -128,10 +128,10 @@ Turn your Android device into a high-performance AirPlay & screen mirror receive
 
 ### ⚠️ Support & Disclaimer
 
-*   **Official Website**: https://www.myit2017.cn
+*   **Official Website**: https://www.thltv.com/
 *   **GitHub Repository**: https://github.com/never88gone/localsend_never88gone
 *   **Official Telegram**: https://t.me/tanghulutvos
-*   **Support Email**: hsb@myit2017.cn
+*   **Support Email**: support@thltv.com
 *   **Disclaimer**: AirPlay is a trademark of Apple Inc., registered in the U.S. and other countries. This app is an independent, third-party AirPlay receiver solution developed by the THLPlay team and is not affiliated with Apple Inc.
 
 Experience seamless multi-screen interaction! Download **THLPlay** now.
